@@ -29,7 +29,8 @@ def main():
     link = listToString(linklist)
     link = formatfinal(link)
     print(link)
-if "__main__" == __name__:
-    main()
+
+
+main()
 
 
